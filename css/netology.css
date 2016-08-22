@@ -67,7 +67,7 @@ h2:not(.shout):before {
 
 /* Стили для обложки презентации */
 #cover {
-  background: url(../i/netology-logo.png) no-repeat 10% 10%;
+  background: url(../i/logo.svg) no-repeat 10% 10%;
   background-size: 20%;
   background-color: #00acf2;
   position: relative;
@@ -383,7 +383,7 @@ dd {
 
 /* Последний слайд */
 .last {
-  background: url(../i/netology-logo.png) no-repeat center 20%;
+  background: url(../i/logo.svg) no-repeat center 20%;
   background-size: 25%;
   background-color: #00acf2;
   color: #00acf2;
