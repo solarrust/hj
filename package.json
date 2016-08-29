@@ -1,20 +1,20 @@
 {
-  "name": "hj",
-  "description": "Slides for lectures about JavaScript",
+  "name": "lists-and-tables",
+  "description": "Slides for lectures about lists and tables",
   "version": "0.1.1",
   "author": {
-    "name": "Dima Fitiskin",
-    "url": "http://fb.me/dfitiskin"
+    "name": "Alena Bat",
+    "url": "https://www.facebook.com/ABatickaya"
   },
-  "homepage": "http://netology.ru/programms/html-javascript",
+  "homepage": "http://netology.ru/programms/html-css-base",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dfitiskin/hj.git"
+    "url": "git://github.com/solarrust/lists-and-tables.git"
   },
   "keywords": [
-    "javascript",
-    "objects",
-    "closures"
+    "html",
+    "tables",
+    "lists"
   ],
   "files": [
     "i/**",
